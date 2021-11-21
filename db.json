@@ -1,0 +1,25 @@
+{
+    "product": 
+    [
+        {"id":1,"name":"Magellanic penguin","category":"Puce"},
+        {"id":2,"name":"Roseat flamingo","category":"Maroon"},
+        {"id":3,"name":"Possum, ring-tailed","category":"Orange"},
+        {"id":4,"name":"Goldeneye, barrows","category":"Purple"},
+        {"id":5,"name":"Golden jackal","category":"Blue"},
+        {"id":6,"name":"Bee-eater, white-fronted","category":"Pink"},
+        {"id":7,"name":"Agile wallaby","category":"Blue"},
+        {"id":8,"name":"Leopard, indian","category":"Puce"},
+        {"id":9,"name":"Penguin, fairy","category":"Red"},
+        {"id":10,"name":"Lapwing, southern","category":"Puce"},
+        {"id":11,"name":"California sea lion","category":"Purple"},
+        {"id":12,"name":"Kiskadee, great","category":"Teal"},
+        {"id":13,"name":"Burrowing owl","category":"Teal"},
+        {"id":14,"name":"Flamingo, chilean","category":"Blue"},
+        {"id":15,"name":"Porcupine, north american","category":"Turquoise"},
+        {"id":16,"name":"Openbill stork","category":"Goldenrod"},
+        {"id":17,"name":"Gelada baboon","category":"Fuscia"},
+        {"id":18,"name":"Starling, greater blue-eared","category":"Purple"},
+        {"id":19,"name":"Striped skunk","category":"Indigo"},
+        {"id":20,"name":"Egyptian cobra","category":"Goldenrod"}
+    ]
+}
